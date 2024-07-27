@@ -6,9 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-package firstcode;
 
-public class main {
+
     public static void main( String[] args ) {
         int[] boo = {0, 1, 2, 3, 4};
 
@@ -35,7 +34,6 @@ public class main {
         }
         return count;
     }
-}
 
 <!---
 andrewli615/andrewli615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
